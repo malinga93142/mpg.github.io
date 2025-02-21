@@ -1,0 +1,6 @@
+<map id="set" name="set">
+<area shape="rect" id="Node000001" title="Represents a set using a linked list." alt="" coords="5,93,48,119"/>
+<area shape="rect" id="Node000002" href="$structlist.html" title="Represents a node in a linked list." alt="" coords="5,5,48,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="29,45,29,93,24,93,24,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="62,8,71,11,75,18,66,27,48,28,48,23,64,22,69,18,67,15,61,13"/>
+</map>
